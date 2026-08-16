@@ -6,11 +6,11 @@
 
 ## 🚀 Flagship Project: CHRONO
 
-**GTA V Superpower + Justice System** — superpowers (dash, time stop, invisibility, fly, god mode, map teleport) + a complete justice system: wanted levels, physical arrests, police escorts, court rulings, prison, and city-wide manhunts. With a live WEBNET news feed that reacts to your crimes in real time.
+**GTA V Justice System** — most mods hand you powers. CHRONO gives you consequences: witnesses, news reports, notoriety, face-on-file, custody, court, prison, and a police force that remembers you. The powers (dash, time stop, invisibility, force push) are just the vehicle.
 
-> **[⬇️ Download CHRONO v1.0.0](https://github.com/fdfrontdev/gtav-chrono/releases)** — one-click installer, free forever
+> **[⬇️ Download CHRONO v1.0.2](https://github.com/fdfrontdev/gtav-chrono/releases)** — one-click installer, free forever
 
-- 455 unit tests · 4-layer DDD · SQLite criminal record · built with C# + ScriptHookVDotNet
+- 526 automated tests · 4-layer DDD · SQLite criminal record · built with C# + ScriptHookVDotNet
 - Replaced a production SAP-class ERP at my last role — I build systems that survive contact with reality
 
 ---
@@ -22,7 +22,7 @@
 | **GTA V Modding** | CHRONO justice system, SHVDN scripting, HUD widgets, AI escort systems |
 | **ERP / Business Systems** | Full ERP replacing SAP/Navision (palm oil industry), engineering management systems |
 | **ML / Trading** | Decision-support systems, model evaluation harnesses, strict risk gates |
-| **Knowledge Engineering** | Second Brain (1030+ books indexed, 97% retrieval accuracy), automation MCP servers |
+| **Knowledge Engineering** | Second Brain (125,000+ documents indexed), automation MCP servers |
 
 ---
 
@@ -31,7 +31,6 @@
 CHRONO is and always will be **free**. If my work makes your game — or your day — better:
 
 - 💳 **[Join the Patreon](https://patreon.com/FirdausBuilds)** — credits, feature votes, dev-logs ($3 / $7 / $15)
-- ☕ **[Buy me a coffee](https://buymeacoffee.com/)** — a one-time thank you
 - 📺 **[YouTube: @firdausbuilds](https://www.youtube.com/@firdausbuilds)** — dev-logs, tutorials, builds in progress
 - 📧 **fdfrontdev@gmail.com** — commissions and collaborations
 
