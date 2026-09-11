@@ -1,46 +1,66 @@
-# 👋 Hi, I'm Firdaus — FIRDAUS BUILDS
+# Mohamad Firdaus — FIRDAUS BUILDS
 
-**Solo software builder.** I make game mods, developer tools, and software that solves real problems — and I document the whole journey.
+**Senior Software Engineer building ERP/MES systems, workflow automation and AI-enabled tools.**
 
----
+I turn complex operating workflows into software that teams can understand, test and support. My strongest evidence is a production ERP that replaced SAP/Navision for refinery operations, plus end-to-end delivery across enterprise systems, web platforms, data and quality engineering.
 
-## 🚀 Flagship Project: CHRONO
-
-**GTA V Superpower + Justice System** — superpowers (dash, time stop, invisibility, fly, god mode, map teleport) + a complete justice system: wanted levels, physical arrests, police escorts, court rulings, prison, and city-wide manhunts. With a live WEBNET news feed that reacts to your crimes in real time.
-
-> **[⬇️ Download CHRONO v1.0.0](https://github.com/fdfrontdev/gtav-chrono/releases)** — one-click installer, free forever
-
-- 455 unit tests · 4-layer DDD · SQLite criminal record · built with C# + ScriptHookVDotNet
-- Replaced a production SAP-class ERP at my last role — I build systems that survive contact with reality
+📍 Penang, Malaysia · [Portfolio](https://fdfrontdev.github.io/web-profile-deploy/) · [LinkedIn](https://www.linkedin.com/in/mohamad-firdaus-mohamad-fauzi-310672294/) · [WhatsApp](https://wa.me/60143043514) · [Email](mailto:fdfrontdev@gmail.com)
 
 ---
 
-## 🛠️ What I Do
+## What I build
 
-| Domain | Examples |
+| Focus | Evidence |
 |---|---|
-| **GTA V Modding** | CHRONO justice system, SHVDN scripting, HUD widgets, AI escort systems |
-| **ERP / Business Systems** | Full ERP replacing SAP/Navision (palm oil industry), engineering management systems |
-| **ML / Trading** | Decision-support systems, model evaluation harnesses, strict risk gates |
-| **Knowledge Engineering** | Second Brain (1030+ books indexed, 97% retrieval accuracy), automation MCP servers |
+| **ERP / MES / manufacturing systems** | Manufacturing execution, supply chain, finance, HR, procurement and operational workflows |
+| **Workflow automation** | Dashboards, APIs, reporting and internal tools built around real processes |
+| **Backend and web delivery** | C#/.NET foundations, Python, Nuxt/Vue, TypeScript, SQL and end-to-end ownership |
+| **AI and knowledge engineering** | Semantic search, retrieval workflows, audit records and private/local AI boundaries |
 
 ---
 
-## ❤️ Support the Work
+## Selected proof
 
-CHRONO is and always will be **free**. If my work makes your game — or your day — better:
+### Enterprise ERP
 
-- 💳 **[Join the Patreon](https://patreon.com/FirdausBuilds)** — credits, feature votes, dev-logs ($3 / $7 / $15)
-- ☕ **[Buy me a coffee](https://buymeacoffee.com/)** — a one-time thank you
-- 📺 **[YouTube: @firdausbuilds](https://www.youtube.com/@firdausbuilds)** — dev-logs, tutorials, builds in progress
-- 📧 **fdfrontdev@gmail.com** — commissions and collaborations
+Architected and built a production ERP replacing SAP/Navision for refinery operations. Public details are intentionally anonymised; the evidence is in the system boundaries, workflow coverage, delivery ownership and support requirements.
+
+### CHRONO — free C#/.NET product
+
+A free GTA V mod where player actions create witnesses, news, notoriety and a justice response. CHRONO demonstrates C#/.NET design, dependency injection, TDD, release packaging and **526 automated tests**.
+
+**[View the CHRONO project and releases →](https://github.com/fdfrontdev/gtav-chrono)**
+
+### Second Brain — private AI knowledge system
+
+A private knowledge-engineering system with **125,000+ documents**, semantic search and knowledge-graph workflows. The public claim is limited to traceable corpus size and capabilities; unsupported retrieval-accuracy claims are intentionally omitted.
+
+### Workflow/API diagnostic
+
+For SMEs and operations teams, I offer a fixed-scope **RM350 Workflow & API Diagnostic**: one discovery session, a workflow map, risk points and a prioritised next slice. No free build and no vague “anything website” promise.
 
 ---
 
-## 📊 GitHub Stats
+## Current focus
 
-![Firdaus's GitHub stats](https://github-readme-stats.vercel.app/api?username=fdfrontdev&show_icons=true&theme=dark&hide_border=true)
+- Full-time software engineering roles in ERP, MES, manufacturing, automation and AI-enabled systems.
+- Selected fixed-scope consulting for workflow, reporting and API automation.
+- Building public proof through privacy-safe case studies, synthetic data and honest verification.
 
-<!--
-Built by FIRDAUS BUILDS — one brand, one story: software that solves real problems.
--->
+## CHRONO support
+
+CHRONO is free and will remain free. If the work is useful:
+
+- [Patreon — FIRDAUS BUILDS](https://patreon.com/FirdausBuilds)
+- [YouTube — @firdausbuilds](https://www.youtube.com/@firdausbuilds)
+
+---
+
+## Engineering principles
+
+- Evidence before claims.
+- Private client and employer details stay private.
+- Tests, contracts, runbooks and supportability belong in the delivery.
+- A project is not progress until it creates a real artifact, conversation, paid diagnostic or verified outcome.
+
+<!-- Built by FIRDAUS BUILDS — one maker brand, clear proof, useful software. -->
