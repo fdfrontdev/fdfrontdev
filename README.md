@@ -1,21 +1,19 @@
-# Mohamad Firdaus — FIRDAUS BUILDS
+# FIRDAUS BUILDS
 
-**Senior Software Engineer building ERP/MES systems, workflow automation and AI-enabled tools.**
+**I help small teams find where work gets copied, delayed or lost, then build the smallest reliable fix.**
 
-I turn complex operating workflows into software that teams can understand, test and support. My strongest evidence is a production ERP that replaced SAP/Navision for refinery operations, plus end-to-end delivery across enterprise systems, web platforms, data and quality engineering.
+I am Mohamad Firdaus, a senior software and business-systems builder. I work with operations, manufacturing and technical teams that are tired of copying the same information between spreadsheets, WhatsApp, email and disconnected tools. I start by mapping one workflow before anyone commits to a large rebuild.
 
 📍 Penang, Malaysia · [Portfolio](https://fdfrontdev.github.io/web-profile-deploy/) · [LinkedIn](https://www.linkedin.com/in/mohamad-firdaus-mohamad-fauzi-310672294/) · [WhatsApp](https://wa.me/60143043514) · [Email](mailto:fdfrontdev@gmail.com)
 
 ---
 
-## What I build
+## The problems I help with
 
-| Focus | Evidence |
-|---|---|
-| **ERP / MES / manufacturing systems** | Manufacturing execution, supply chain, finance, HR, procurement and operational workflows |
-| **Workflow automation** | Dashboards, APIs, reporting and internal tools built around real processes |
-| **Backend and web delivery** | C#/.NET foundations, Python, Nuxt/Vue, TypeScript, SQL and end-to-end ownership |
-| **AI and knowledge engineering** | Semantic search, retrieval workflows, audit records and private/local AI boundaries |
+- **Work is copied too many times.** I map the hand-offs between spreadsheets, WhatsApp, email and business systems.
+- **Nobody can see what is waiting.** I turn hidden status, ownership and reporting gaps into a clear next step.
+- **A rebuild feels too risky.** I review the current process first, define a small slice and leave written boundaries before build work begins.
+- **A team needs a useful internal tool.** I can deliver a focused report, dashboard, hand-off, validation step or system connection around the real workflow.
 
 ---
 
@@ -23,7 +21,7 @@ I turn complex operating workflows into software that teams can understand, test
 
 ### Enterprise ERP
 
-Architected and built a production ERP replacing SAP/Navision for refinery operations. Public details are intentionally anonymised; the evidence is in the system boundaries, workflow coverage, delivery ownership and support requirements.
+Led delivery of a production ERP for refinery operations. Public details are intentionally anonymised; the evidence is in the workflow coverage, delivery ownership, support requirements and the decisions the system had to make visible.
 
 ### CHRONO — free C#/.NET product
 
@@ -33,18 +31,18 @@ A free GTA V mod where player actions create witnesses, news, notoriety and a ju
 
 ### Second Brain — private AI knowledge system
 
-A private knowledge-engineering system with **125,000+ documents**, semantic search and knowledge-graph workflows. The public claim is limited to traceable corpus size and capabilities; unsupported retrieval-accuracy claims are intentionally omitted.
+A private knowledge system with **125,000+ documents** and traceable search and review workflows. It demonstrates how I handle large information collections without pretending that a search result is automatically correct.
 
-### Workflow/API diagnostic
+### Workflow rescue diagnostic
 
-For SMEs and operations teams, I offer a fixed-scope **RM350 Workflow & API Diagnostic**: one discovery session, a workflow map, risk points and a prioritised next slice. No free build and no vague “anything website” promise.
+For small teams and operations teams, I offer a fixed-scope **RM350 Workflow Rescue Diagnostic**: one real process, a map of where work gets copied or delayed, the clearest risk points and a prioritised next slice. No free rebuild and no vague “anything website” promise.
 
 ---
 
 ## Current focus
 
 - Full-time software engineering roles in ERP, MES, manufacturing, automation and AI-enabled systems.
-- Selected fixed-scope consulting for workflow, reporting and API automation.
+- Selected fixed-scope work for workflow, reporting and small internal fixes.
 - Building public proof through privacy-safe case studies, synthetic data and honest verification.
 
 ## CHRONO support
