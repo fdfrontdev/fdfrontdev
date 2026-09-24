@@ -1,8 +1,8 @@
 # FIRDAUS BUILDS
 
-**I help small teams find where work gets copied, delayed or lost, then build the smallest reliable fix.**
+**Make work make sense.**
 
-I am Mohamad Firdaus, a senior software and business-systems builder. I work with operations, manufacturing and technical teams that are tired of copying the same information between spreadsheets, WhatsApp, email and disconnected tools. I start by mapping one workflow before anyone commits to a large rebuild.
+I help small teams find the copy-paste, delays and blind spots in one process, then build one useful fix. I am Mohamad Firdaus, a senior software and business-systems builder in Penang.
 
 📍 Penang, Malaysia · [Portfolio](https://fdfrontdev.github.io/web-profile-deploy/) · [LinkedIn](https://www.linkedin.com/in/mohamad-firdaus-mohamad-fauzi-310672294/) · [WhatsApp](https://wa.me/60143043514) · [Email](mailto:fdfrontdev@gmail.com)
 
@@ -35,7 +35,7 @@ A private knowledge system with **125,000+ documents** and traceable search and 
 
 ### Workflow rescue diagnostic
 
-For small teams and operations teams, I offer a fixed-scope **RM350 Workflow Rescue Diagnostic**: one real process, a map of where work gets copied or delayed, the clearest risk points and a prioritised next slice. No free rebuild and no vague “anything website” promise.
+For small teams and operations teams, I offer a fixed-scope **RM350 Workflow Rescue Diagnostic**: one real process, a clear map and the next useful step. No vague “anything website” promise.
 
 ---
 
