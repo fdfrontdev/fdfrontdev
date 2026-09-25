@@ -1,12 +1,17 @@
 # FIRDAUS BUILDS
 
-**Make work make sense.**
+**Senior software engineer building production systems around real operating workflows.**
 
-I help small teams find the copy-paste, delays and blind spots in one process, then build one useful fix. I am Mohamad Firdaus, a senior software and business-systems builder in Penang.
+I architected and built a production ERP replacing SAP/Navision for refinery operations, and I build public software with traceable tests and release evidence. I am Mohamad Firdaus, based in Penang.
 
 📍 Penang, Malaysia · [Portfolio](https://fdfrontdev.github.io/web-profile-deploy/) · [LinkedIn](https://www.linkedin.com/in/mohamad-firdaus-mohamad-fauzi-310672294/) · [WhatsApp](https://wa.me/60143043514) · [Email](mailto:fdfrontdev@gmail.com)
 
 ---
+
+## The work I do
+
+- **For employers:** ERP/MES, manufacturing systems, full-stack delivery, AI-enabled products and engineering standards.
+- **For small teams:** One-Process Workflow Review — RM350. I review one business process, show where work repeats, waits or gets lost, and give you a written next step before a larger build.
 
 ## The problems I help with
 
@@ -33,9 +38,9 @@ A free GTA V mod where player actions create witnesses, news, notoriety and a ju
 
 A private knowledge system with **125,000+ documents** and traceable search and review workflows. It demonstrates how I handle large information collections without pretending that a search result is automatically correct.
 
-### Workflow rescue diagnostic
+### One-Process Workflow Review — RM350
 
-For small teams and operations teams, I offer a fixed-scope **RM350 Workflow Rescue Diagnostic**: one real process, a clear map and the next useful step. No vague “anything website” promise.
+For small teams and operations teams, I review one real process and provide a workflow map, friction notes, a prioritised next slice and a follow-up review. Production implementation is quoted separately after the process is understood.
 
 ---
 
